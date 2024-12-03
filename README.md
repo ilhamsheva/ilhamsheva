@@ -33,5 +33,3 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamsheva&show_icons=true&hide_title=true&count_private=true)
