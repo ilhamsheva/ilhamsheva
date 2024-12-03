@@ -1,11 +1,14 @@
 <div align="center">
+    <img src="https://github.com/ilhamsheva/ilhamsheva/blob/main/git.gif" alt="Git GIF" width="600"/>
+</div>
+
+<div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ilham;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Ilham</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a student at Esa Unggul University majoring in Informatics Engineering. I'm currently learning the basics of programming and continuing to develop my skills in various languages ​​and technologies. I'm always looking for opportunities to learn something new and contribute to the programming community.</p>
 </div>
 
@@ -28,4 +31,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
