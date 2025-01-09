@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
 
-## 📈 GitHub Stats
-
-![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamsheva&show_icons=true&theme=radical)
+<h2 align="center" class="section-heading">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhamsheva&show_icons=true&theme=radical" alt="Ilham's GitHub Stats"/>
+</div>
